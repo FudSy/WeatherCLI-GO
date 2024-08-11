@@ -1,1 +1,1 @@
-"# WeatherCLI-GO" 
+"Weather CLI project on Golang" 
